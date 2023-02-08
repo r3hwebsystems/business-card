@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-myself {
+    width: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.card {
+    width: 400px;
+    display: flex;
+    background: bisque;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 4px solid lightblue;
+    margin: 20px auto;
+}
+
+.affiliation {
+    
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
